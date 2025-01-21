@@ -1,2 +1,1 @@
-# Full-stack_Offliner
-Full-stack_Offliner
+Фулл стак приложение созданное на основе интернет магазина Onliner
